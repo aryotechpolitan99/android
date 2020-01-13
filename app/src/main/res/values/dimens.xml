@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_view">200sp</dimen>
+    <dimen name="style_minimize">100sp</dimen>
+
+</resources>
