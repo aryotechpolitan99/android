@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Counter App</string>
+    <string name="tv_count_text">0</string>
+    <string name="btn_text_count">Count</string>
+    <string name="btn_reset_text">Reset</string>
+
+</resources>
