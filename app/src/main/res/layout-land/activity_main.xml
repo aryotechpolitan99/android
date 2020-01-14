@@ -16,7 +16,7 @@
         android:text="@string/tv_count_text"
         android:textAlignment="center"
         android:textColor="@color/color_bg_tv_bluedark"
-        android:textSize="100sp" />
+        android:textSize="@dimen/default_text_count_lands" />
 
     <Button
         android:id="@+id/btn_count"
@@ -26,7 +26,7 @@
         android:text="@string/btn_text_count"
         android:textAlignment="center"
         android:textColor="@color/white_color"
-        android:textSize="40sp" />
+        android:textSize="30sp" />
 
     <Button
         android:id="@+id/btn_reset"
@@ -37,6 +37,6 @@
         android:text="@string/btn_reset_text"
         android:textAlignment="center"
         android:textColor="@color/white_color"
-        android:textSize="40sp" />
+        android:textSize="30sp" />
 
 </androidx.appcompat.widget.LinearLayoutCompat>
